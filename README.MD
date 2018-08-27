@@ -1,1 +1,1 @@
-DEMO VERSION OF KOMOCKI TIMER
+Version 3 Komocki Timer
